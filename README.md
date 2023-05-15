@@ -12,15 +12,17 @@ Updates in real-time
 Shows current meridiem (AM/PM)
 Can be easily customized by changing the CSS and JavaScript files.
 
-# Installation
+# Installation (Local)
 Clone this repository to your local machine.
-Open the index.html file in your web browser.
 
 # Usage
-Simply open the index.html file in your web browser to view the clock.
+Go to [clock web app](link).
+
+## To Test Locally
+Simply open the [index.html](index.html) file in your web browser to view the clock.
 
 # Customization
-You can customize the color scheme of the app by changing the id attribute of the html element in index.html to one of the following values:
+You can customize the color scheme of the app by changing the id attribute of the html element in [index.html](index.html) to one of the following values:
 
 color-scheme-1
 color-scheme-2
@@ -28,7 +30,7 @@ color-scheme-3
 
 You can also modify the code in [script.js](script.js) to change the behavior or appearance of the app.
 
-#### Credits
+# Credits
 This app was built by Akshit Kumar in co-operation with Siliconic Technologies and is based on the tutorial by [Online Tutorials](https://www.youtube.com/@OnlineTutorialsYT).
 
 Copyright © 2023 Siliconic Technologies. All rights reserved.
