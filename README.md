@@ -16,4 +16,4 @@ Open the index.html file in your web browser.
 Simply open the index.html file in your web browser to view the clock.
 
 # Credits
-This app was built by Akshit Kumar and is based on the tutorial by https://www.youtube.com/@OnlineTutorialsYT.
+This app was built by Akshit Kumar in co-operation with Siliconic Technologies and is based on the tutorial by https://www.youtube.com/@OnlineTutorialsYT.
