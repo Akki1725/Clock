@@ -26,7 +26,9 @@ color-scheme-1
 color-scheme-2
 color-scheme-3
 
-You can also modify the code in script.js [Link to script.js](script.js) to change the behavior or appearance of the app.
+You can also modify the code in [script.js](script.js) to change the behavior or appearance of the app.
 
-# Credits
-This app was built by Akshit Kumar in co-operation with Siliconic Technologies and is based on the tutorial by https://www.youtube.com/@OnlineTutorialsYT.
+## Credits
+This app was built by Akshit Kumar in co-operation with Siliconic Technologies and is based on the tutorial by [Online Tutorials](https://www.youtube.com/@OnlineTutorialsYT).
+
+Copyright © 2023 Siliconic Technologies. All rights reserved.
