@@ -16,7 +16,7 @@ Can be easily customized by changing the CSS and JavaScript files.
 Clone this repository to your local machine.
 
 # Usage
-Go to [clock web app](link).
+Go to [clock web app](https://chrono-meter.netlify.app).
 
 ## To Test Locally
 Simply open the [index.html](index.html) file in your web browser to view the clock.
@@ -24,7 +24,7 @@ Simply open the [index.html](index.html) file in your web browser to view the cl
 # Customization
 You can customize the color scheme of the app by changing the id attribute of the html element in [index.html](index.html) to one of the following values:
 
-color-scheme-1\n
+color-scheme-1
 color-scheme-2
 color-scheme-3
 
