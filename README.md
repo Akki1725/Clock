@@ -1,4 +1,4 @@
-# Clock App
+# ChronoMeter
 This is a simple clock app built with HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds, and also includes a rotating clock face.
 
 ![Screenshot 2023-05-15 091928](https://github.com/Akki1725/Clock/assets/68149441/8a14ed99-9d11-471f-92c0-45f0add1b8b8)
@@ -16,7 +16,7 @@ Can be easily customized by changing the CSS and JavaScript files.
 Clone this repository to your local machine.
 
 # Usage
-Go to [clock web app](https://chrono-meter.netlify.app).
+Go to [chronometer](https://chrono-meter.netlify.app).
 
 ## To Test Locally
 Simply open the [index.html](index.html) file in your web browser to view the clock.
